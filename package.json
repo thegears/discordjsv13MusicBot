@@ -1,0 +1,19 @@
+{
+  "name": "v13altyapigelismis",
+  "version": "1.0.0",
+  "description": "thegears",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thegears",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.3.0",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "ms2time": "^1.0.3"
+  }
+}
