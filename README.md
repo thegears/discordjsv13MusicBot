@@ -9,4 +9,5 @@ discord.js v13 Müzik Botu
 
 ## Star atmayı unutmayın :)
 
-## [Buraya tıklayarak kodlar paylaştığım sunucuya gidebilirsiniz.](https://discord.gg/Pur3RnGua2)
+## thegears#7001
+## [Buraya tıklayarak kodlar paylaştığım sunucuya gidebilirsiniz.](https://gearscode.xyz/discord)
